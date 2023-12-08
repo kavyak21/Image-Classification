@@ -1,6 +1,7 @@
 # Image Classification using Convolutional Neural Network
 
-This involves building a Convolutional Neural Network (CNN) to classify images of five different personalities: Lionel Messi, Maria Sharapova, Roger Federer, Serena Williams, and Virat Kohli.
+This task involves building a Convolutional Neural Network (CNN) to classify images of five different personalities: Lionel Messi, Maria Sharapova, Roger Federer, Serena Williams, and Virat Kohli.
+The CNN model architecture consists of convolutional layers, max-pooling layers, a flattening layer, and dense layers. The model is compiled using the Adam optimizer and sparse categorical crossentropy as the loss function.
 
 **Model Summary**
 
